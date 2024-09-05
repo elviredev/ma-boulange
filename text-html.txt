@@ -1,0 +1,126 @@
+https://www.youtube.com/watch?v=TTOkgUNmNk0&t=141s
+========== HEADER ==========
+.nav__logo
+Ma Boulange
+
+.nav__link
+Accueil - Nouveautés - À propos - Favoris - Nous Trouver
+
+
+========== HOME ==========
+.home__title
+Sélectionnez les meilleurs <br> pains de qualité
+
+.button
+Choisir Pains
+
+.home__location span
+AV. du roi #321 <br> Orléans France
+
+.home__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.youtube.com/
+
+
+========== NEWS ==========
+.section__title
+Nouveaux Pains
+
+.new__title .new__description
+Pain de seigle
+Cuit avec des aliments sains et sans gluten
+levain pour une bonne nutrition.
+
+Pain au maïs
+Croustillant et préparé maison
+à partir de farine biologique sans levure.
+
+Pain aux céréales
+Savoureux et fait avec différentes
+céréales naturelles biologiques.
+
+.new__button
+Voir plus de pains
+
+
+========== ABOUT ==========
+.section__title
+À Propos
+
+.about__description
+Nous préparons tous types de pains faits maison.
+Nous nous efforçons de maintenir la tradition pour utiliser uniquement le meilleur
+des ingrédients à base de produits locaux dans la mesure du possible.
+Nous avons une vaste gamme de produits de viennoiserie fraîchement préparés
+et des cafés du monde pour les accompagner.
+
+.button
+En savoir plus
+
+
+========== FAVORITES ==========
+.section__title
+Les préférés de nos clients
+
+.favorite__title .favorite__subtitle .favorite__price
+Céréales
+Pain
+$6.00
+
+Seigle
+Pain
+$8.00
+
+Blé
+Pain
+$3.00
+
+Maïs
+Pain
+$5.00
+
+Levain
+Pain
+$7.00
+
+La baguette
+Pain
+$3.00
+
+
+========== VISIT ==========
+.section__title
+Nous rencontrer
+
+.visit__description
+Découvrez le meilleur pain, on a hâte
+à votre visite.
+
+.button
+Voir notre emplacement
+
+
+========== FOOTER ==========
+.footer__logo
+Ma Boulange
+
+.footer__description
+Nous fabriquons le meilleur pain <br> de la ville.
+
+footer__title .footer__info
+Adresse
+ AV. du Roi #321 <br> Orléans France
+ 9AM - 11PM
+
+Contactez Nous
+ maboulange@email.com
+ +00 987 654 321
+
+Suivez Nous
+ https://www.facebook.com/
+ https://www.instagram.com/
+ https://www.youtube.com/
+
+.footer__copy
+&#169; Tous droits réservés - Elviredev
